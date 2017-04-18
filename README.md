@@ -1,0 +1,1 @@
+#Scala Application which continously tails log file and sends to Kafka
