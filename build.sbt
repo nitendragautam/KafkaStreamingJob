@@ -1,6 +1,6 @@
 organization := "com.nitendragautam"
 
-name := "KafkaStreamingJob"
+name := "KafkaStreamingProducerJob"
 
 version := "1.0"
 
