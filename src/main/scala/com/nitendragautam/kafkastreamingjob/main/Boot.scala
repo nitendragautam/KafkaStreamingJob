@@ -27,7 +27,7 @@ object Boot extends App{
   implicit val executionContext = system.dispatcher
 
   //Access Logs File Path which is streamed line by line and send it to Kafka
-val filePath="D:\\App\\KafkaStreamingJob\\Data\\KafkaStreaming.log"
+val filePath="D:\\App\\KafkaStreamingProducerJob\\Data\\KafkaStreaming.log"
 val logFilePath= Paths.get(filePath);
 
 
