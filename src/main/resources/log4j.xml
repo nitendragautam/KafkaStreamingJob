@@ -3,7 +3,7 @@
 <log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
 
     <appender name="file" class="org.apache.log4j.RollingFileAppender">
-        <param name="File" value="D:/App/KafkaStreamingJob/Log/KafkaStreamingJob.log" />
+        <param name="File" value="D:/App/KafkaStreamingProducerJob/Log/KafkaStreamingJob.log" />
         <param name="Append" value="true" />
         <param name="MaxFileSize" value="10MB" />
 
