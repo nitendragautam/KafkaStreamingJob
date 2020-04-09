@@ -1,4 +1,4 @@
-#Scala Application which continously tails log file and sends to Kafka
+## Scala Application which continously tails log file and sends to Kafka
 
 
 I Created this as part of my masters paper on Big Data.
